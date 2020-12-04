@@ -5,11 +5,16 @@ body, html {
   }
 
   .logo {
-    background-image: url('img/Mozilla_Icon.png');
+    background-image: url('img/Glyph-solid.png');
     width: 100px;
     height: 100px;
     background-repeat: no-repeat;
     background-size: contain;
   }
+
+  .active {
+    color: green;
+  }
+  
   
   

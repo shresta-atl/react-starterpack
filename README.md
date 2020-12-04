@@ -1,2 +1,2 @@
 # react-starterpack
-Boilerplate code for React apps using Redux, Yarn, Webpack, and Node.
+Boilerplate code for small React apps using Redux, Yarn, Webpack, and Node.
